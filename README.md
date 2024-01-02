@@ -36,7 +36,7 @@ Library yang saya gunakan pada project ini:
 
 Skenario 
 Langkah 1 : penyewa mendaftar 
-si penyewa datang ke kost dan bertemu dengan pemilik kost, apabila cocok si penyewa mengisi formulir pendaftaran yang berisi data diri dan pilihan kamar. Otomatis  masuk ke dalam sistem pemilik kost
+si penyewa datang ke kost dan bertemu dengan pemilik kost, apabila cocok si penyewa mengisi formulir pendaftaran yang berisi data diri dan pilihan kamar. Otomatis  masuk ke dalam sistem pemilik kost.
 Langkah 2 : penyewa menyewa kamar
 Sesuai yang sudah di tentukan di formulir pendaftaran menggunakan metode apa pembayaran nnya jika menggunakan transfer/uang elektronik maka hanya mengirim bukti pembayaran dan jika menggunakan metode Tunai si Penyewa datang ke kost dan membayar sewa kamar. Pemilik kost membuat bukti sewa kamar dan memberikannya kepada penyewa.
 Langkah 3: penyewa membayar sewa kamar
