@@ -1,4 +1,4 @@
-**Penyewaan Kamar Kos Mami Rohimah **
+**Penyewaan Kamar Kos Mami Rohimah**
 
 Saya memiliki kenalan ibu kos (mami rohimah) yang masih menggunakan metode jadul atau manual, saya ingin membantu dengan membuatkan sebuah program untuk memudahkan proses penyewaan kamar kos. Jadi program ini diharapkan dapat membantu pemilik kos untuk mengelola data penyewa dan kamar kos, serta mempermudah penyewa untuk melakukan kamar kos agar lebih mudah dan efisien.
 
